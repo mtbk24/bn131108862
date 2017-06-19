@@ -96,9 +96,11 @@
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_sbpl+bbody_-01-_L_.pdf "")
 
-#### Notes:
-Both versions of the SBPL+BBODY with the BXA original runs had large variance in the bb component.  In both cases, it was insignificant.  
-XSPEC v1 had a low kT $\sim$5.3 and v2 had a higher kT of $\sim$83 keV.
+### Notes:
+#### Both versions of the SBPL+BBODY with the BXA original runs had large variance in the bb component.  In both cases, it was insignificant.   XSPEC v1 had a low kT $\sim$5.3 and v2 had a higher kT of $\sim$83 keV.
+
+
+
 <br/>
 <br/>
 
